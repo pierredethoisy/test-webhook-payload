@@ -12,3 +12,4 @@ leCurseur.execute(""" SELECT title, description FROM books WHERE author = %s """
 pprint.pprint(leCurseur.fetchall())
 leCurseur.query("update books set title='assommoir' where author='Zola'")
 uneConnexionBDD.commit()
+var abc = "test-pierre-payload-webhook"
