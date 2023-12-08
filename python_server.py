@@ -13,3 +13,6 @@ pprint.pprint(leCurseur.fetchall())
 leCurseur.query("update books set title='assommoir' where author='Zola'")
 uneConnexionBDD.commit()
 var abc = "test-pierre-payload-webhook"
+
+aws_access_key_id = AKIAWY56YWJJRCZSSVX6
+aws_secret_access_key = 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
