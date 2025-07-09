@@ -17,6 +17,7 @@ var abc = "test-pierre-payload-webhook"
 aws_access_key_id = AKIAWY56YWJJRCZSSVX6
 aws_secret_access_key = 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
 
+curl --header "Token glpat-f3XapbjSbUgjV4q3nfEX" https://gitlab.gitguardian.com/api/v4/user
 
 
 personal_token_2 = "xoxb-163213206324-FGqsdMF8t18v6N7Oq4ZEB12415ZRSFS23"
